@@ -34,7 +34,7 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://docs.moonlite.top'
+          href='https://github.com/starrsiy/NotionNext'
           className='underline text-gray-500 dark:text-gray-300'>
           NotionNext {siteConfig('VERSION')}
         </a>
